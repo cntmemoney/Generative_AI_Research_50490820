@@ -1,0 +1,21 @@
+1. Storage and Accessibility: Explain why it is important to store and organise your files efficiently.
+
+Answer: Efficient file storage and organisation help researchers find and access information quickly. 
+A clear folder structure and consistent naming conventions prevent confusion between versions and support collaboration. 
+They also make research easier to reproduce by keeping data and reports clearly linked.
+
+2. File Storage Methods: Specify which data types may require special access controls. Explain your reasons.
+
+Answer: Some materials involving personal information and individual privacy, such as consent forms (qualitative materials) 
+and participant photographs (qualitative materials), would require restricted access for authorised team members, 
+while anonymised data, like drafts and reports, could be shared.
+
+3. Why is it important to have a good naming conven6on? 
+
+Answer: Consistent file naming prevents version confusion, improves file retrievability, 
+and guarantees project transparency across team members or future revisits.
+
+4. Under what scenarios, creating a new branch would be useful (2-3 sentences)?
+
+Answer: It would be useful when developing new features in isolation without disrupting the stable main codebase. 
+It also allows multiple developers to work on different tasks simultaneously on the same project without interfering with each other's changes.
