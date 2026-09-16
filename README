@@ -14,3 +14,8 @@ while anonymised data, like drafts and reports, could be shared.
 
 Answer: Consistent file naming prevents version confusion, improves file retrievability, 
 and guarantees project transparency across team members or future revisits.
+
+4. Under what scenarios, creating a new branch would be useful (2-3 sentences)?
+
+Answer: It would be useful when developing new features in isolation without disrupting the stable main codebase. 
+It also allows multiple developers to work on different tasks simultaneously on the same project without interfering with each other's changes.
